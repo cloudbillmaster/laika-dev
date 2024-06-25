@@ -1,2 +1,2 @@
-# Test MVC Project
-This is a test project
+# Laika MVC Project
+My MVC Project named Laika
