@@ -1,3 +1,2 @@
-# laika-dev
-This is my first project
-New Changes
+# Laika MVC Project
+My MVC Project named Laika
